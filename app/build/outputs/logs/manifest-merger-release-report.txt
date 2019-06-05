@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:grantUriPermissions
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:32:13-47
+	android:authorities
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:30:13-64
+	android:exported
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:29:13-67
+manifest
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [:Library] /Users/guiyanbing/Documents/project/android/study/compressImage/Library/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8b433335fd79c6244089021e3ad07e4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/220445334beabfdf26b1d4f710c7ba99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3e52c552592c0b9463dc4cfb1f7f8c64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/24e9092c7ed14e987f3bca34a8164a9b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fd3147db5439fcc0fd1575b059cd5d3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ce246b5c0cb20f5de91bda4b3b20fb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ae297d8014e6fbdabf37ab4c4639510/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7cfe0fb0806654b6351dd0fbf6c296d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/610037941cdc378dcb0344da64590e48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3e8fa99379e80235c7b894f30626aa16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f61ee569a2583dc8091301a962d1accf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/15b537a696f417e1eed892c3113566b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4cb0882c16bc64cc073a5df414e1c1ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/658b755c648fd874ef16af2c5d2ba872/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3f5ac354526e9138e1e2152c08cc5b6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f258cbcfb516869a716293e3b99e4c44/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d3695ea3f017c89c94b2702857ec7443/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55f3c4c8e214062e50a29497fe3cf9ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/02eb6cc240a734b79822ff7a0237f868/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/06ecbbce12c1305fcb607d797495a0a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b6b93bae5924333c163fbfd1ad744301/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a23a2dea25bd02ae8c259e191ed57784/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a6f455540c5b840e9b1b46746287e4d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b5d42cc7af5e1a444450f1931f44f545/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844b87634b4f4c96a6abdd6251458f10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d2ec34a5700743c6d3e14317623d7ffa/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:10:22-62
+application
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:12:5-37:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3f5ac354526e9138e1e2152c08cc5b6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3f5ac354526e9138e1e2152c08cc5b6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f258cbcfb516869a716293e3b99e4c44/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f258cbcfb516869a716293e3b99e4c44/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3f5ac354526e9138e1e2152c08cc5b6/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.netease.image.compress.MainActivity
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+MERGED from [:Library] /Users/guiyanbing/Documents/project/android/study/compressImage/Library/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:Library] /Users/guiyanbing/Documents/project/android/study/compressImage/Library/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8b433335fd79c6244089021e3ad07e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8b433335fd79c6244089021e3ad07e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/220445334beabfdf26b1d4f710c7ba99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/220445334beabfdf26b1d4f710c7ba99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3e52c552592c0b9463dc4cfb1f7f8c64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3e52c552592c0b9463dc4cfb1f7f8c64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/24e9092c7ed14e987f3bca34a8164a9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/24e9092c7ed14e987f3bca34a8164a9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fd3147db5439fcc0fd1575b059cd5d3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fd3147db5439fcc0fd1575b059cd5d3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ce246b5c0cb20f5de91bda4b3b20fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/0ce246b5c0cb20f5de91bda4b3b20fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ae297d8014e6fbdabf37ab4c4639510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8ae297d8014e6fbdabf37ab4c4639510/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7cfe0fb0806654b6351dd0fbf6c296d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7cfe0fb0806654b6351dd0fbf6c296d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/610037941cdc378dcb0344da64590e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/610037941cdc378dcb0344da64590e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3e8fa99379e80235c7b894f30626aa16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3e8fa99379e80235c7b894f30626aa16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f61ee569a2583dc8091301a962d1accf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f61ee569a2583dc8091301a962d1accf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/15b537a696f417e1eed892c3113566b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/15b537a696f417e1eed892c3113566b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4cb0882c16bc64cc073a5df414e1c1ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4cb0882c16bc64cc073a5df414e1c1ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/658b755c648fd874ef16af2c5d2ba872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/658b755c648fd874ef16af2c5d2ba872/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3f5ac354526e9138e1e2152c08cc5b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a3f5ac354526e9138e1e2152c08cc5b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f258cbcfb516869a716293e3b99e4c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f258cbcfb516869a716293e3b99e4c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d3695ea3f017c89c94b2702857ec7443/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/d3695ea3f017c89c94b2702857ec7443/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55f3c4c8e214062e50a29497fe3cf9ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55f3c4c8e214062e50a29497fe3cf9ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/02eb6cc240a734b79822ff7a0237f868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/02eb6cc240a734b79822ff7a0237f868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/06ecbbce12c1305fcb607d797495a0a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/06ecbbce12c1305fcb607d797495a0a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b6b93bae5924333c163fbfd1ad744301/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b6b93bae5924333c163fbfd1ad744301/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a23a2dea25bd02ae8c259e191ed57784/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a23a2dea25bd02ae8c259e191ed57784/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a6f455540c5b840e9b1b46746287e4d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a6f455540c5b840e9b1b46746287e4d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b5d42cc7af5e1a444450f1931f44f545/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b5d42cc7af5e1a444450f1931f44f545/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844b87634b4f4c96a6abdd6251458f10/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/844b87634b4f4c96a6abdd6251458f10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d2ec34a5700743c6d3e14317623d7ffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/guiyanbing/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d2ec34a5700743c6d3e14317623d7ffa/AndroidManifest.xml:20:5-44
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:33:13-35:53
+	android:resource
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:35:17-50
+	android:name
+		ADDED from /Users/guiyanbing/Documents/project/android/study/compressImage/app/src/main/AndroidManifest.xml:34:17-67
